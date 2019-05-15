@@ -1,8 +1,7 @@
 # scholarship_2017
 Big Data Analysis in the department of statistics in Korea University (2017)
 
-I analyzed IBM (Internet Movie Database) in 2017.
-The analysis was performed through 3 stages.
+The analysis of IBM (Internet Movie Database) in 2017 was performed through 3 stages.
 
 1. Removing the unnecessary variables through PCA and CFA.
 
